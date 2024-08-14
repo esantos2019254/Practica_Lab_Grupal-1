@@ -9,38 +9,38 @@
 
 ## Pasos para hacer una pizza
 
- 1. **Comprar**:
-    - Harina de Trigo 
-    - Levadura Seca
-    - Sal
-    - Azucar
-    - Tomates
-    - Diente de Ajo
-    - Aceite de Oliva
-    - Pimienta
-    - Oregano
-    - Albahaca
-    - Peperoni
-    - Jamon
-  <br>
- 2. **Mezclar Levadura**: Disolvemos el azucar en agua tibia y esperamos entre 5 a 15 minutos que el agua empieze a sacar burbujas.
+1. **Compra**:
+   - 🌾 Harina de trigo
+   - 🧂 Levadura seca
+   - 🧂 Sal
+   - 🍬 Azúcar
+   - 🍅 Tomates
+   - 🧄 Diente de ajo
+   - 🫒 Aceite de oliva
+   - 🌶️ Pimienta
+   - 🌿 Orégano
+   - 🌿 Albahaca
+   - 🍕 Pepperoni
+   - 🥩 Jamón
    <br>
- 3. **Hacemos Maza**: Con un bol grande ponemos mezclar la harina y la sal, en el medio hacemos un hueco donde ponemos la mezcla que hicimos de agua con levadura y agregamos un poco de aceite de oliva.
+2. **Mezcla la levadura**: Disuelve el azúcar en agua tibia y espera de 5 a 15 minutos hasta que el agua empiece a formar burbujas. 🕒
    <br>
- 4.  **Amasamos**: Empezamos a amasar la mezcla hasta que tome una forma más solida.
+3. **Prepara la masa**: En un bol grande, mezcla la harina y la sal. Haz un hueco en el centro, vierte la mezcla de agua con levadura y añade un poco de aceite de oliva. 🥣
    <br>
- 5.  **Duplicamos Tamaño**: En otro bol le ponemos un poco de aceite y dejamos reposar la masa ahí, lo cubrimos con un pañuelo humedo y lo tapamos; lo dejamos reposar entre 1 a 2 horas hasta que se duplique su tamaño.
+4. **Amasa**: Amasa la mezcla hasta que obtengas una masa sólida y uniforme. 💪
    <br>
- 6. **Preparamos Ajo**: Picamos el Ajo y lo agregamos en un sarten caliente hasta que se doren.
+5. **Deja reposar**: Coloca la masa en otro bol con un poco de aceite, cúbrela con un paño húmedo y déjala reposar entre 1 y 2 horas, o hasta que duplique su tamaño. ⏳
    <br>
- 7. **Preparamos Salsa de Tomate**: Ya listo los ajos en ese mismo sarten agregamos tomate triturados, azúcar, sal, pimienta, orégano y la albahaca hasta que se espece el tomate y tengamos un salsa hecha.
+6. **Prepara el ajo**: Pica el ajo y sofríelo en una sartén caliente hasta que se dore. 🍳
    <br>
- 8. **Precalentamos el Horno**: Precalentamos el horno a la temperatura más alta que tenga capacidad tu horno o bien un minimo de 250°C.
+7. **Prepara la salsa de tomate**: En la misma sartén, agrega tomates triturados, azúcar, sal, pimienta, orégano y albahaca. Cocina hasta que la salsa espese. 🍅
    <br>
- 9. **Formamos la Masa**: Sacamos la masa del bol y le empezamos a dar la forma que queremos que tenga nuestra pizza.
+8. **Precalienta el horno**: Precalienta el horno a la temperatura más alta posible, o al menos a 250°C. 🔥
    <br>
- 10. **Agregamos los ingredientes**: Ponemos la salsa que preparamos como base de nuestra pizza encima de la masa, agregamos el Jamon y Pepperoni encima; y finalmente el oregano, pimienta y la albahaca.
+9. **Forma la masa**: Saca la masa del bol y estírala en la forma deseada para tu pizza. 🍕
    <br>
- 11. **Horenamos la pizza**: Metemos al horno ya caliente la pizza y lo dejamos durante 30 a 45 minutos que se horne.
-   <br>
- 12. **Servimos y comemos**: Sacamos la pizza del horno, la cortamos en pedazos y finalmente podemos servir y comer la pizza.
+10. **Agrega los ingredientes**: Extiende la salsa sobre la masa, añade el jamón y el pepperoni, y finalmente espolvorea con orégano, pimienta y albahaca. 🧀
+    <br>
+11. **Hornea la pizza**: Coloca la pizza en el horno caliente y hornéala durante 30 a 45 minutos, o hasta que esté dorada y crujiente. ⏲️
+    <br>
+12. **Sirve y disfruta**: Saca la pizza del horno, córtala en porciones y sírvela. ¡Buen provecho! 🍽️
