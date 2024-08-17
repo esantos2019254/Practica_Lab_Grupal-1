@@ -44,3 +44,41 @@
 11. **Hornea la pizza**: Coloca la pizza en el horno caliente y hornéala durante 30 a 45 minutos, o hasta que esté dorada y crujiente. ⏲️
 ###
 12. **Sirve y disfruta**: Saca la pizza del horno, córtala en porciones y sírvela. ¡Buen provecho! 🍽️
+
+
+## Pasos para hacer una pizza
+**Ingredientes**:
+* Harina
+* Tomates
+* Sal
+* Levadura
+* Aceite de oliva
+* pimienta
+* Oregano
+* Cebolla
+* Ajo
+* Jamón
+* Agua
+* Queso mozzarella
+
+### Preparación
+
+## 1. **Mezcla de levadura** : mezclamos agua y levadura, y esperamos que el agua muestre unas burbujas, para saber que ya está lista.
+
+## 2. **Masa**: en una taza grande, mezclamos la harina y sal, para luego verter la mezcla de levadura y un poco de aceite de oliva.
+
+## 3. **Amasar la mezcla**: amasamos la mezcla formada hasta obtener una buena consistencia en la masa.
+
+## 4. **Reposo**: dejamos que repose unos minutos hasta que la masa se vuelva grande. Aproximadamente 1 hora y media a 2 horas.
+
+## 5. **Precalentar el horno**: buscamos una temperatura a 250°C en el horno.
+
+## 6. **Preparación de la salsa y el ajo**: doramos el ajo, juntamos tomates y las comenzamos a moler en una taza, le agregamos sal, pimienta, oregano y cebolla, hasta que se haga un líquido espeso.
+
+## 7. **Dar forma a la masa**: la masa que dejamos en reposo, le vamos dando forma con las manos.
+
+## 8. **Agregar Ingredientes**: colocamos la salsa y el ajo encima de la masa, encima le colocamos quezo mozzarella, por último el jamón
+
+## 11. **Hornear**: coloca la pizza en el horno caliente y hornéala durante 30 a 45 minutos, hasta que esté dorada y crujiente.
+
+## 12. **Disfrutar**: corta la pizza de la forma que quieras y disfruta con una bebida.
